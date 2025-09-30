@@ -1,0 +1,9 @@
+**sesi 1**
+soal-01-AverageNumFunction      : 05:25
+soal-01-AverageNum              : 02:05
+soal-02-Tegangan                : 02:00
+soal-02-TeganganFunction        : 03:53
+soal-03-kelilingLingkaran       : 01:58
+soal-03-kelilingLingkaranFunc   : 03:55
+
+**sesi 2**
