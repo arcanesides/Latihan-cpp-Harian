@@ -1,0 +1,6 @@
+**tugas 1**
+recursive 1 : 7 menit 32 detik
+recursive 2 : 3 menit 22 detik
+recursive 3 : 4 menit 9 detik
+recursive 4 : 13 menit 13 detik
+recursive 5 : 29 menit 33 detik
